@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SisInvex
+        psr4_prefix: SisInvex
+        src_path: app
